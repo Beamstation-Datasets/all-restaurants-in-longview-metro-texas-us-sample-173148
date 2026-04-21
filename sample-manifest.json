@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a5a8b2df-1e96-4d6e-a678-f721faa48589",
+  "export_job_id": "f4d62f2c-de04-4f6a-a2d6-bdb2eeede70a",
   "id_short": 173148,
-  "published_at": "2026-04-17T19:08:33Z",
+  "published_at": "2026-04-21T19:07:32Z",
   "repo_name": "all-restaurants-in-longview-metro-texas-us-sample-173148",
   "sample_asset_name": "beamstation_173148_restaurants-us-longviewtx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/173148/beamstation_173148_restaurants-us-longviewtx_SAMPLE_DIST.csv",
-  "sample_records": 39,
-  "sample_sha256": "ff717bec221065bb39588492a288347d106671f57426f16aeb7b43febd43f230",
-  "sample_size_bytes": 150981,
-  "total_records": 397
+  "sample_records": 36,
+  "sample_sha256": "9945112ff4d06c73eacefbbf619f95212f807a67da74c19758ceba42dac046c9",
+  "sample_size_bytes": 140761,
+  "total_records": 366
 }
