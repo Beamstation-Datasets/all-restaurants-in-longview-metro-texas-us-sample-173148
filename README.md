@@ -1,6 +1,6 @@
 # All Restaurants in Longview (Metro), Texas, US
 
-> Free BeamStation sample export with 36 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `173148` |
 | Location | Longview, TX |
 | Category | Restaurants |
-| Full dataset size | 366 records |
-| Free sample size | 36 records (9.84%) |
-| Last export | 2026-04-21T13:03:22.550117+00:00 |
+| Full dataset size | 252 records |
+| Free sample size | 25 records (9.92%) |
+| Last export | 2026-04-28T13:57:56.558790+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-longview-metro-texas-us-sample-173148/releases/download/sample-latest/beamstation_173148_restaurants-us-longviewtx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
